@@ -17,7 +17,7 @@
             "user": {
                 "data": {
                     "address": "Adres (Casambi NetworkID)",
-                    "import_groups": "Importeer groupen?",
+                    "import_groups": "Importeer groepen?",
                     "password": "Wachtwoord"
                 },
                 "title": "Configureer uw Casambi netwerk"
